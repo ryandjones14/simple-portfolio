@@ -55,3 +55,11 @@ li {
 a{
   color: green;
 }
+article{
+  width: 75%;
+  background-color: rgb(225,225,225);
+  border: 3px solid rgb(222,222,222);
+  text-align: left;
+  margin: 5px auto;
+  padding: 0 20px;
+}
