@@ -10,12 +10,12 @@ h1 {
 }
 header {
   width:70%;
-  height:150px;
+  height: 150px;
   //background-color: rgb(200,100,75);
   text-align: center;
   border-top: 8px double black;
   border-bottom: 8px double black;
-  padding: 15px 25px;
+  padding: auto;
   margin: 0 auto;
 }
 #my-life {
@@ -43,11 +43,10 @@ header {
   padding: 0 20px;
 }
 ul{
-  list-style-type: square;
-  height: 50px;
+  height: 30px;
   background-color: rgb(227,227,227);
   text-align: center;
-  padding-top: 20px;
+  padding: 10px 0;
 }
 li {
   display: inline;
